@@ -9,7 +9,7 @@ import {
 
 export const Footer = () => {
   return (
-    <footer className="relative text-white mb-16">
+    <footer className="relative text-white md:mb-0 mb-16">
       
       {/* Background Image */}
       <div className="absolute inset-0 -z-10">
