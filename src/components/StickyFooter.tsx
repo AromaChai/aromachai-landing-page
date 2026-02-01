@@ -34,7 +34,7 @@ const [showForm, setShowForm] = React.useState(false);
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => (window.location.href = 'tel:+9324590515')}
+              onClick={() => (window.location.href = 'tel:+919324590515')}
               className=" bg-gray-100 hover:bg-gray-200 font-bold py-3 px-6 rounded-lg "
             >
               <Phone size={20} className='text-green-700 ' />

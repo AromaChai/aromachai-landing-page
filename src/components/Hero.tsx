@@ -150,7 +150,7 @@ export const Hero: React.FC = () => {
 
           {/* Call Button */}
           <div
-            onClick={() => (window.location.href = 'tel:+9324590515')}
+            onClick={() => (window.location.href = 'tel:+919324590515')}
             className="
             bg-white/10 backdrop-blur-md border border-white/30
       hover:bg-white hover:text-green-900 text-white
