@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__f42ee5db._.js")
+R.c("server/chunks/ssr/38452_next_dist_3d1cffa9._.js")
+R.c("server/chunks/ssr/38452_next_dist_esm_build_templates_app-page_221b8b6a.js")
+R.c("server/chunks/ssr/[root-of-the-server]__8205e472._.js")
+R.c("server/chunks/ssr/38452_next_dist_c28b3404._.js")
+R.c("server/chunks/ssr/38452_next_dist_ae8919b3._.js")
+R.c("server/chunks/ssr/Desktop_aroma-chai-landing-page_src_app_layout_tsx_495e6b65._.js")
+R.c("server/chunks/ssr/38452_next_dist_client_components_d34e5443._.js")
+R.c("server/chunks/ssr/38452_next_dist_client_components_builtin_forbidden_28e38e5d.js")
+R.c("server/chunks/ssr/232ed_oma-chai-landing-page__next-internal_server_app__not-found_page_actions_e504c69e.js")
+R.m(17860)
+module.exports=R.m(17860).exports

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Hriitik/Downloads/aroma-chai-franchise---premium-landing-page/src/app/globals.css"],"sourcesContent":["/* Global styles migrated from the old index.html */\n\nbody {\n  font-family: 'Inter', sans-serif;\n}\n\nh1,\nh2,\nh3,\n.font-serif {\n  font-family: 'Playfair Display', serif;\n}\n\n.gradient-overlay {\n  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 100%);\n}\n\n.glass-card {\n  background: rgba(255, 255, 255, 0.8);\n  backdrop-filter: blur(12px);\n  border: 1px solid rgba(255, 255, 255, 0.3);\n}\n\n::-webkit-scrollbar {\n  width: 10px;\n}\n\n::-webkit-scrollbar-track {\n  background: #f1f1f1;\n}\n\n::-webkit-scrollbar-thumb {\n  background: #14532d;\n  border-radius: 5px;\n}\n\n"],"names":[],"mappings":"AAEA;;;;AAIA;;;;AAOA;;;;AAIA;;;;;;;AAMA;;;;AAIA;;;;AAIA"}}]
+}

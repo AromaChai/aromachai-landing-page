@@ -1,0 +1,3 @@
+module.exports=[16056,a=>{"use strict";var b=a.i(12149);function c({children:a}){return(0,b.jsxs)("html",{lang:"en",children:[(0,b.jsx)("head",{children:(0,b.jsx)("link",{href:"https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap",rel:"stylesheet"})}),(0,b.jsx)("body",{children:a})]})}a.s(["default",()=>c,"metadata",0,{title:"Aroma Chai Franchise | Own Your Cafe Business"}])}];
+
+//# sourceMappingURL=Desktop_aroma-chai-landing-page_src_app_layout_tsx_495e6b65._.js.map
