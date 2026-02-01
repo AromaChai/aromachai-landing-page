@@ -3349,44 +3349,43 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$
 ;
 const Footer = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
-        className: "relative text-white md:mb-0 mb-16",
+        className: "relative  md:mb-0 mb-16 min-h-[400px]",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute inset-0 -z-10",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                        src: "/images/footers.png",
+                className: "absolute inset-0 -z-0",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "relative w-full h-full min-h-[400px]",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                        src: "/images/footer.png",
                         alt: "Footer Background",
                         fill: true,
                         priority: true,
-                        className: "object-cover"
+                        className: "object-cover",
+                        sizes: "100vw"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                        lineNumber: 16,
-                        columnNumber: 9
-                    }, ("TURBOPACK compile-time value", void 0)),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "absolute inset-0 bg-[#0f3d26]/90"
-                    }, void 0, false, {
-                        fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                        lineNumber: 24,
-                        columnNumber: 9
+                        lineNumber: 17,
+                        columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
-                ]
-            }, void 0, true, {
+                }, void 0, false, {
+                    fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
+                    lineNumber: 16,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0))
+            }, void 0, false, {
                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
                 lineNumber: 15,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "z-0 absolute top-0 right-0 left-0 bg-black/50 w-full h-full pointer-events-none"
+                className: "z-20 absolute top-0 right-0 left-0 bg-black/50 w-full h-full pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                lineNumber: 27,
+                lineNumber: 30,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "relative z-0 max-w-7xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-3 gap-10 space ",
+                className: "relative z-30 max-w-7xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-3 gap-10  ",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: [
@@ -3398,7 +3397,7 @@ const Footer = ()=>{
                                 className: "mb-4"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                lineNumber: 34,
+                                lineNumber: 37,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3406,92 +3405,92 @@ const Footer = ()=>{
                                 children: "Chai Franchise India | Tea Business Opportunity | Low Investment Franchise | Zero Royalty Franchise | Profitable Food Franchise"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                lineNumber: 42,
+                                lineNumber: 45,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "flex gap-3 mt-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SocialIcon, {
-                                        href: "#",
+                                        href: "https://www.facebook.com/aromachai.outlet",
                                         icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$react$2d$icons$2f$fa6$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaFacebookF"], {}, void 0, false, {
                                             fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                            lineNumber: 49,
-                                            columnNumber: 40
-                                        }, void 0)
-                                    }, void 0, false, {
-                                        fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 49,
-                                        columnNumber: 13
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SocialIcon, {
-                                        href: "#",
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$react$2d$icons$2f$fa6$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaInstagram"], {}, void 0, false, {
-                                            fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                            lineNumber: 50,
-                                            columnNumber: 40
-                                        }, void 0)
-                                    }, void 0, false, {
-                                        fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 50,
-                                        columnNumber: 13
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SocialIcon, {
-                                        href: "#",
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$react$2d$icons$2f$fa6$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaYoutube"], {}, void 0, false, {
-                                            fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                            lineNumber: 51,
-                                            columnNumber: 40
-                                        }, void 0)
-                                    }, void 0, false, {
-                                        fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 51,
-                                        columnNumber: 13
-                                    }, ("TURBOPACK compile-time value", void 0)),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SocialIcon, {
-                                        href: "#",
-                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$react$2d$icons$2f$fa6$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaXTwitter"], {}, void 0, false, {
-                                            fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
                                             lineNumber: 52,
-                                            columnNumber: 40
+                                            columnNumber: 80
                                         }, void 0)
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
                                         lineNumber: 52,
                                         columnNumber: 13
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SocialIcon, {
+                                        href: "https://www.instagram.com/aroma.chai/",
+                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$react$2d$icons$2f$fa6$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaInstagram"], {}, void 0, false, {
+                                            fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
+                                            lineNumber: 53,
+                                            columnNumber: 76
+                                        }, void 0)
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
+                                        lineNumber: 53,
+                                        columnNumber: 13
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SocialIcon, {
+                                        href: "https://www.youtube.com/@aromachai",
+                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$react$2d$icons$2f$fa6$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaYoutube"], {}, void 0, false, {
+                                            fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
+                                            lineNumber: 54,
+                                            columnNumber: 73
+                                        }, void 0)
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
+                                        lineNumber: 54,
+                                        columnNumber: 13
+                                    }, ("TURBOPACK compile-time value", void 0)),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(SocialIcon, {
+                                        href: "https://x.com/aroma_chai_",
+                                        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$react$2d$icons$2f$fa6$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaXTwitter"], {}, void 0, false, {
+                                            fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
+                                            lineNumber: 55,
+                                            columnNumber: 64
+                                        }, void 0)
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
+                                        lineNumber: 55,
+                                        columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                lineNumber: 48,
+                                lineNumber: 51,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                        lineNumber: 33,
+                        lineNumber: 36,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:mt-0 mt-6",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                className: "text-lg font-semibold mb-4",
+                                className: "text-lg font-semibold mb-4 text-white",
                                 children: "Quick Links"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                lineNumber: 58,
+                                lineNumber: 61,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                className: "space-y-3 text-sm text-white hover:text-green-400 transition font-bold",
+                                className: "space-y-3 text-sm text-white  transition font-bold",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FooterLink, {
                                         href: "#",
                                         children: "Home"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 60,
+                                        lineNumber: 63,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FooterLink, {
@@ -3499,7 +3498,7 @@ const Footer = ()=>{
                                         children: "Featured Outlet"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 61,
+                                        lineNumber: 64,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FooterLink, {
@@ -3507,7 +3506,7 @@ const Footer = ()=>{
                                         children: "Find A Outlets"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 62,
+                                        lineNumber: 65,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FooterLink, {
@@ -3515,7 +3514,7 @@ const Footer = ()=>{
                                         children: "Shop Now"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 63,
+                                        lineNumber: 66,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(FooterLink, {
@@ -3523,30 +3522,30 @@ const Footer = ()=>{
                                         children: "Contact"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 64,
+                                        lineNumber: 67,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                lineNumber: 59,
+                                lineNumber: 62,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                        lineNumber: 57,
+                        lineNumber: 60,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:mt-0 mt-6",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                className: "text-lg font-semibold mb-4",
+                                className: "text-lg font-semibold mb-4 text-white",
                                 children: "Get In Touch"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                lineNumber: 70,
+                                lineNumber: 73,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -3556,7 +3555,7 @@ const Footer = ()=>{
                                         children: "Office #914, Grohitam Building, Plot 14B, APMC Market, Sector 19, Vashi, 400705"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 72,
+                                        lineNumber: 75,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -3569,13 +3568,13 @@ const Footer = ()=>{
                                                 children: "info.aromafnb@gmail.com"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                                lineNumber: 78,
+                                                lineNumber: 81,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 76,
+                                        lineNumber: 79,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -3588,39 +3587,39 @@ const Footer = ()=>{
                                                 children: "+91 9324590515"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                                lineNumber: 87,
+                                                lineNumber: 90,
                                                 columnNumber: 15
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                        lineNumber: 85,
+                                        lineNumber: 88,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                                lineNumber: 71,
+                                lineNumber: 74,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                        lineNumber: 69,
+                        lineNumber: 72,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                lineNumber: 30,
+                lineNumber: 33,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "relative z-0 bg-[#0b2e1c]/90 text-center text-sm py-4 text-gray-200",
+                className: "relative z-20 bg-[#0b2e1c]/90 text-center text-sm py-8 mt-0 text-gray-200",
                 children: "Copyright © 2024 Aroma Chai. All Rights Reserved"
             }, void 0, false, {
                 fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-                lineNumber: 100,
+                lineNumber: 103,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -3637,12 +3636,12 @@ const Footer = ()=>{
             children: children
         }, void 0, false, {
             fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-            lineNumber: 117,
+            lineNumber: 120,
             columnNumber: 5
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-        lineNumber: 116,
+        lineNumber: 119,
         columnNumber: 3
     }, ("TURBOPACK compile-time value", void 0));
 const SocialIcon = ({ href, icon })=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$aroma$2d$chai$2d$landing$2d$page$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -3652,7 +3651,7 @@ const SocialIcon = ({ href, icon })=>/*#__PURE__*/ (0, __TURBOPACK__imported__mo
         children: icon
     }, void 0, false, {
         fileName: "[project]/Desktop/aroma-chai-landing-page/src/components/Footer.tsx",
-        lineNumber: 130,
+        lineNumber: 133,
         columnNumber: 3
     }, ("TURBOPACK compile-time value", void 0));
 }),
