@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Aroma Chai Franchise | Own Your Cafe Business',
-  description: ''
+  title: 'Aroma Chai Franchise | Start Tea Café Business from ₹8 Lakhs',
+  description: 'Start your own Aroma Chai franchise with a low-investment, high-ROI business model. Chef-less operations, full support & scalable growth. Apply now.'
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
