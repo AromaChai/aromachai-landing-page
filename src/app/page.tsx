@@ -37,7 +37,7 @@ export default function Page() {
   }, []);
 
   return (
-    <div className="bg-stone-50 min-h-screen pb-24">
+    <div className="bg-stone-50 min-h-screen">
       <Navbar />
       <main>
         <div ref={heroRef}>

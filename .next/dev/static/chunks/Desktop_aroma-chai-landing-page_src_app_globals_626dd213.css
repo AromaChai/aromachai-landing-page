@@ -1228,6 +1228,22 @@
     padding-right: calc(var(--spacing) * 8);
   }
 
+  .pb-2 {
+    padding-bottom: calc(var(--spacing) * 2);
+  }
+
+  .pb-5 {
+    padding-bottom: calc(var(--spacing) * 5);
+  }
+
+  .pb-10 {
+    padding-bottom: calc(var(--spacing) * 10);
+  }
+
+  .pb-12 {
+    padding-bottom: calc(var(--spacing) * 12);
+  }
+
   .pb-24 {
     padding-bottom: calc(var(--spacing) * 24);
   }
@@ -1702,6 +1718,12 @@
   @media (min-width: 48rem) {
     .md\:mt-0 {
       margin-top: calc(var(--spacing) * 0);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:mb-0 {
+      margin-bottom: calc(var(--spacing) * 0);
     }
   }
 
