@@ -9,7 +9,7 @@ export const Comparison: React.FC = () => {
     {
       icon: <Coffee className="text-green-600" />,
       name: 'Aroma Chai – Offline QSR + Cloud Kitchen',
-      desc: 'Walk-in customers for chai, bun maska, samosa, pakoda and snacks. High-frequency, low-ticket orders create steady daily cash flow + online sales.',
+      desc: 'Walk-in customers for chai, bun maska, samosa and snacks. High-frequency, low-ticket orders create steady daily cash flow + online sales.',
     },
     {
       icon: <ShoppingBag className="text-blue-600" />,
