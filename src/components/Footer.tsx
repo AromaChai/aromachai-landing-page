@@ -100,7 +100,7 @@ export const Footer = () => {
       </div>
 
       {/* Bottom Bar */}
-      <div className="relative z-20 bg-[#0b2e1c]/90 text-center text-sm py-8 mt-0 text-gray-200">
+      <div className="relative z-20  text-center text-sm py-6 mt-0 text-gray-200">
         Copyright © 2024 Aroma Chai. All Rights Reserved
       </div>
     </footer>

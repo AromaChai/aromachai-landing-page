@@ -79,7 +79,7 @@ export const Hero: React.FC = () => {
           initial={{ y: 30, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5, duration: 0.8 }}
-          className="sm:text-4xl text-xl md:text-6xl lg:text-7xl font-bold text-white max-w-5xl leading-tight mb-2"
+          className="sm:text-4xl text-xl  lg:text-6xl font-bold text-white max-w-7xl leading-tight mb-2"
         >
           {slides[current].title}
         </motion.h1>
