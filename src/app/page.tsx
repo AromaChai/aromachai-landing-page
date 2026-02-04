@@ -57,7 +57,7 @@ export default function Page() {
       </main>
       <Footer />
       {showStickyFooter && <StickyFooter />}
-      <FloatingWhatsAppButton />
+      
     </div>
   );
 }

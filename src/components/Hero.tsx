@@ -147,27 +147,6 @@ export const Hero: React.FC = () => {
           </div>
 
 
-
-          {/* Call Button */}
-          <div
-            onClick={() => (window.location.href = 'tel:+919324590515')}
-            className="
-            bg-white/10 backdrop-blur-md border border-white/30
-      hover:bg-white hover:text-green-900 text-white
-      
-      px-6 md:px-8 py-3 md:py-3
-      rounded-full font-semibold
-      text-sm md:text-base
-      transition-all shadow-lg
-      flex items-center justify-center gap-2
-      w-full
-    "
-          >
-            <PhoneCall className="size-5 md:size-6 transition-transform group-hover:translate-x-1" />
-            <span>Talk to Franchise Expert</span>
-          </div>
-
-
         </motion.div>
 
 
