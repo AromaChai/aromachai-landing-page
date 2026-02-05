@@ -13,9 +13,7 @@ export const SupportSection: React.FC = () => {
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
             Featured Outlet: <span className="text-green-700">Ghansoli</span>
           </h2>
-          <p className="text-gray-600 max-w-2xl mx-auto text-lg">
-            See the Model in Action. The Ghansoli outlet represents a realistic, everyday execution of the franchise model.
-          </p>
+          
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12 items-center">
