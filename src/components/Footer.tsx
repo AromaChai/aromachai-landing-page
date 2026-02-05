@@ -44,7 +44,7 @@ export const Footer = () => {
 
           <p className="text-sm text-gray-200 leading-relaxed mb-4">
             Chai Franchise India | Tea Business Opportunity | Low Investment
-            Franchise | Zero Royalty Franchise | Profitable Food Franchise
+            Franchise | Profitable Food Franchise
           </p>
 
           {/* Social Icons */}

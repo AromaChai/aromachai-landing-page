@@ -8,12 +8,7 @@ const faqs = [
   {
     question: 'What is the total investment required to start an Aroma Chai franchise?',
     answer:
-      'The total investment typically ranges between ₹6-12 lakhs depending on the location tier, outlet size (Kiosk vs Café), and local interior costs. This includes franchise fee, machinery, initial stock, and branding.',
-  },
-  {
-    question: 'Is there any royalty or profit-sharing with Aroma Chai?',
-    answer:
-      "No, we take pride in our 'Zero Royalty' model. You keep 100% of your profits. We only earn through our proprietary raw materials and setup support.",
+      'The total investment typically ranges from 8 lakhs plus depending on the location tier, outlet size (Express vs Café), and local interior costs. This includes franchise fee, machinery, initial stock, and branding.',
   },
   {
     question: 'What kind of support will I receive as a franchisee?',
