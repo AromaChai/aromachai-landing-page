@@ -33,7 +33,7 @@ export const MarketStats: React.FC = () => {
             viewport={{ once: true }}
             className="text-3xl md:text-5xl font-bold text-gray-900 mb-4"
           >
-            Why This Isn't Like <span className="text-green-700">Most Café Franchises</span>
+            Why This Isn't Like <span className="text-green-700">Most Café Franchise</span>
           </motion.h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">
             Most cafés depend entirely on walk-in footfall. This model is built to perform even when footfall is average.

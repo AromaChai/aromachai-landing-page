@@ -79,10 +79,10 @@ export const Footer = () => {
             <li>
               ✉️{" "}
               <a
-                href="mailto:info.aromafnb@gmail.com"
+                href="mailto:contact@aromachai.in"
                 className="hover:text-green-400 transition"
               >
-                info.aromafnb@gmail.com
+                Contact@aromachai.in
               </a>
             </li>
             <li>
