@@ -1,4 +1,5 @@
 'use client';
+
 import { useEffect } from 'react';
 import { usePathname, useSearchParams } from 'next/navigation';
 
@@ -13,12 +14,18 @@ export default function GTMTracker() {
   const searchParams = useSearchParams();
 
   useEffect(() => {
-    if (typeof window !== 'undefined' && window.dataLayer) {
-      window.dataLayer.push({
-        event: 'pageview',
-        page: pathname + (searchParams ? '?' + searchParams.toString() : ''),
-      });
-    }
+    if (typeof window === 'undefined') return;
+
+    window.dataLayer = window.dataLayer || [];
+
+    window.dataLayer.push({
+      event: 'pageview',
+      page:
+        pathname +
+        (searchParams?.toString()
+          ? `?${searchParams.toString()}`
+          : ''),
+    });
   }, [pathname, searchParams]);
 
   return null;
