@@ -25,7 +25,7 @@ export const ProfitCalculator: React.FC = () => {
   return (
     <>
       <h1 className="text-2xl md:text-5xl font-bold text-gray-900 md:mb-12 mb-2 text-center p-2">
-        Investment: <span className="text-green-700">EXPRESS FORMAT</span> / <span className="text-blue-700">Cafe Model</span></h1>
+        Investment: <span className="text-green-700">EXPRESS Model</span> / <span className="text-blue-700">Cafe Model</span></h1>
       <div className='grid grid-cols-1 lg:grid-cols-2 items-stretch md:gap-8 '>
         <section className="md:py-24 py-16 bg-white flex flex-col h-full" id="express">
           <div className="max-w-7xl mx-auto px-4 flex-1 flex flex-col">
