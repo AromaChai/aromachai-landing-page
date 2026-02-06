@@ -82,7 +82,7 @@ export const MenuShowcase: React.FC = () => {
         >
           <p className="text-lg md:text-xl max-w-3xl mx-auto">
             <strong>Honesty Statement:</strong> This is an operator-driven business, not a passive investment. When executed well, the
-            model is designed to scale sustainably.
+            model is designed to become profitable sustainably.
           </p>
         </motion.div>
       </div>

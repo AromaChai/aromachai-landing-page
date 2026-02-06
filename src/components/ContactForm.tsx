@@ -57,7 +57,7 @@ export const ContactForm: React.FC = () => {
 
             <button
               onClick={() => setShowForm(true)}
-              className="w-full bg-green-700 hover:bg-green-800 text-white py-5 rounded-2xl font-bold text-xl transition-all shadow-xl flex items-center justify-center gap-3 group"
+              className="w-full bg-green-700 hover:bg-green-800 text-white py-5 rounded-2xl font-bold md:text-xl text-base transition-all shadow-xl flex items-center justify-center gap-3 group"
             >
               Get Franchise Details Now
               <ArrowUp size={20} className="group-hover:-translate-y-1 transition-transform" />
