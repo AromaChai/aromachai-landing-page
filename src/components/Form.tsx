@@ -32,33 +32,48 @@ export const ContactForms: React.FC = () => {
     }));
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    (async () => {
-      try {
-        setIsSubmitting(true);
+const handleSubmit = (e: React.FormEvent) => {
+  e.preventDefault();
 
-        const res = await fetch('/api/contact', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(formData),
-        });
+  (async () => {
+    try {
+      setIsSubmitting(true);
 
-        if (!res.ok) {
-          const payload = await res.json().catch(() => ({}));
-          console.error('Submission error:', payload);
-          alert(payload.error || 'Submission failed');
-          setIsSubmitting(false);
-          return;
-        }
-        router.push('/thankyou');
-      } catch (err) {
+      const res = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(formData),
+      });
+
+      if (!res.ok) {
+        const payload = await res.json().catch(() => ({}));
+        console.error('Submission error:', payload);
+        alert(payload.error || 'Submission failed');
         setIsSubmitting(false);
-        console.error('Submit failed:', err);
-        alert('Submission failed. Please try again later.');
+        return;
       }
-    })();
-  };
+
+      // ✅ GTM EVENT — THIS IS THE KEY
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: 'form_success',
+        form_name: 'Franchise Lead Form',
+        page: '/thankyou',
+      });
+
+      // slight delay so GTM can process
+      setTimeout(() => {
+        router.push('/thankyou');
+      }, 100);
+
+    } catch (err) {
+      console.error('Submit failed:', err);
+      alert('Submission failed. Please try again later.');
+      setIsSubmitting(false);
+    }
+  })();
+};
+
 
   return (
     <section className="bg-transparent relative w-full">
