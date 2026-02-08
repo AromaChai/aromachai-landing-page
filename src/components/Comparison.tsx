@@ -13,7 +13,7 @@ export const Comparison: React.FC = () => {
     },
     {
       icon: <ShoppingBag className="text-blue-600" />,
-      name: 'BreadHub – Cloud Kitchen',
+      name: 'The Bread Hub – Cloud Kitchen',
       desc: 'Online-only sandwich brand running from the same kitchen. Higher average order value without additional rent.',
     },
     {

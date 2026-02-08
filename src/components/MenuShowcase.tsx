@@ -8,7 +8,7 @@ export const MenuShowcase: React.FC = () => {
   const rightFor = [
     'You want a business with daily, repeat demand',
     'You are comfortable with a QSR operating model',
-    'You can be involved during setup and early operations',
+    'You can be involved in daily operations and monitoring',
     'You prefer a proven system over starting from scratch',
   ];
 
@@ -81,7 +81,7 @@ export const MenuShowcase: React.FC = () => {
           className="bg-green-900 rounded-3xl p-8 md:p-12 text-white text-center"
         >
           <p className="text-lg md:text-xl max-w-3xl mx-auto">
-            <strong>Honesty Statement:</strong> This is an operator-driven business, not a passive investment. When executed well, the
+            <strong>Honest Statement:</strong> This is an operator-driven business, not a passive investment. When executed well, the
             model is designed to become profitable sustainably.
           </p>
         </motion.div>

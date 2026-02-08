@@ -90,7 +90,7 @@ export const Testimonials: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Featured Outlet: <span className="text-green-700">All Outlets Owners</span>
+            Featured Outlet: <span className="text-green-700">Frenchise Partners Review</span>
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">Don't Just Take Our Word For It</p>
         </div>
@@ -108,7 +108,7 @@ export const Testimonials: React.FC = () => {
             </div>
             <div>
               <h4 className="text-xl font-bold text-gray-900">Owners Review</h4>
-              <p className="text-sm text-gray-600">Hear from franchise owners across all outlets</p>
+              <p className="text-sm text-gray-600">Hear from franchise owners across outlets</p>
             </div>
           </div>
 
