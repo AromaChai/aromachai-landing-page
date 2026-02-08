@@ -24,7 +24,7 @@ export const Comparison: React.FC = () => {
   ];
 
   return (
-    <section className="py-24 bg-stone-50">
+    <section className="md:py-24 py-12 bg-stone-50">
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6">
