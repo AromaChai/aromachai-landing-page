@@ -27,6 +27,7 @@ export const ProfitCalculator: React.FC = () => {
       <h1 className="text-2xl md:text-5xl font-bold text-gray-900 md:mb-12 mb-2 text-center p-2">
         Investment: <span className="text-green-700">EXPRESS Model</span> / <span className="text-blue-700">Cafe Model</span></h1>
       <div className='grid grid-cols-1 lg:grid-cols-2 items-stretch md:gap-8 '>
+
         <section className="md:py-24 py-4 bg-white flex flex-col h-full" id="express">
           <div className="max-w-7xl mx-auto px-4 flex-1 flex flex-col">
             <motion.div
@@ -83,21 +84,21 @@ export const ProfitCalculator: React.FC = () => {
           </div>
         </section>
 
-        <section className="md:py-24 py-4 bg-white flex flex-col h-full" id="cafe">
+                <section className="md:py-24 py-4 bg-white flex flex-col h-full" id="cafe">
           <div className="max-w-7xl mx-auto px-4 flex-1 flex flex-col">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: 0.1 }}
-              className="bg-stone-50 rounded-3xl p-8 md:p-12 border border-stone-200 hover:shadow-xl transition-all mb-12 h-full flex flex-col"
+              className="bg-stone-50 rounded-3xl p-8 md:p-12 border border-stone-200 hover:shadow-xl transition-all md:mb-12 mb-6 h-full flex flex-col"
             >
               <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-stretch">
 
                 {/* LEFT: EXPRESS FORMAT */}
                 <div className="flex-1">
                   <div className="w-14 h-14 bg-white rounded-2xl flex items-center justify-center mb-6 shadow-sm">
-                     <Building2 className="text-blue-600" />
+                    <Building2 className="text-blue-600" />
                   </div>
 
                   <h3 className="text-2xl font-bold text-gray-900 mb-6">
@@ -113,7 +114,7 @@ export const ProfitCalculator: React.FC = () => {
                     <div>
                       <p className="text-sm text-gray-500 mb-1">Area</p>
                       <p className="text-lg font-semibold text-gray-900">
-                        Approx. 250–400 sq ft
+                       Approx. 250–400 sq ft
                       </p>
                     </div>
 
@@ -138,6 +139,8 @@ export const ProfitCalculator: React.FC = () => {
 
           </div>
         </section>
+
+
 
       </div>
 

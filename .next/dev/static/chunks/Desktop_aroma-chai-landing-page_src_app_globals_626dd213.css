@@ -1745,6 +1745,12 @@
   }
 
   @media (min-width: 48rem) {
+    .md\:p-1 {
+      padding: calc(var(--spacing) * 1);
+    }
+  }
+
+  @media (min-width: 48rem) {
     .md\:p-4 {
       padding: calc(var(--spacing) * 4);
     }
@@ -1765,6 +1771,12 @@
   @media (min-width: 48rem) {
     .md\:p-12 {
       padding: calc(var(--spacing) * 12);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:p-16 {
+      padding: calc(var(--spacing) * 16);
     }
   }
 
